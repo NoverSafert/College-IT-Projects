@@ -17,3 +17,7 @@ Projects:
 -Snakes and ladders 
 
   The program is trying to emulate the classic game of snakes and ladders, but the twist is that it only shows the movement of the player, not the board state. This program had the purpose to implement different objects from the same class in the same program. 
+
+-Movie Service 
+
+  A mockup of a movie streaming service, the function it has are: load movies, series and episodes from a file, add new movies, series or episodes, change the score of the movie. 
